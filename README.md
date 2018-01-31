@@ -1,6 +1,6 @@
 # PHYS220 CW 1
 
-**Author(s):** Blah blah blah
+**Author(s):** myranda, daniel, devon
 
 ## Specification
 
