@@ -27,7 +27,7 @@ I pledge that all the work in this repository is our own with only the following
 
 Signed,
 
-Daniel
+Daniel, Devon Ball
 # PHYS220 CW 1
 
 **Author(s):** _\<your name(s)\>_
