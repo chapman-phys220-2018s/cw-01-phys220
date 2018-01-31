@@ -31,10 +31,13 @@ Signed,
 # PHYS220 CW 1
 
 **Author(s):** _\<your name(s)\>_
+=======
+**Author(s):** myranda, daniel, devon
+>>>>>>> 631a6d95283b72d5dcf820a6d10bd3fed2b8f24c
 
 ## Specification
 
-Complete the following exercises, saving your solutions in the indicated files. Recall you have two days of class time to complete everything with your group. Spend your time at home in between wisely to ensure you can finish everything. 
+Complete the following exercises, saving your solutions in the indicated files. Recall you have two days of class time to complete everything with your group. Spend your time at home in between wisely to ensure you can finish everything.
 
 1. (Should be done already.) Familiarize yourself with the contents of the `info` repository for the course. Refer to it often as needed throughout the course. Read through the `GettingStarted` guide in the `info` repository for the course. Follow instructions to connect your GitHub account to your CoCalc account, using SSH keys.
 1. Read through the [Linux/Bash Overview Slides](http://slides.com/profdressel/linux-bash-overview) with your group and work through exercises together.
