@@ -27,5 +27,5 @@ I pledge that all the work in this repository is our own with only the following
 
 Signed,
 
-Daniel, Devon Ball
+Daniel, Devon Ball, Myranda 
 
