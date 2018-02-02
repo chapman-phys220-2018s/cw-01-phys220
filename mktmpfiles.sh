@@ -1,3 +1,4 @@
+#!/bin/bash
 #Daniel, Devon, and Myranda
 #PHYS220
 #CW-01
