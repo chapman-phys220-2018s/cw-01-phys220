@@ -16,7 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 With your group, analyze in this section what you found useful about this assignment in your own words. Include any questions or comments that you may have for the instructor.
 
-**CHANGEME**
+This assignment was useful in the process of just getting used to github, cocalc, and the terminal. It gave us a basic introduction to using some of the tools that we will need in this course and beyond.
 
 ## Honor Pledge
 
@@ -27,5 +27,5 @@ I pledge that all the work in this repository is our own with only the following
 
 Signed,
 
-Daniel, Devon Ball, Myranda 
+Daniel, Devon Ball, Myranda
 
